@@ -1,0 +1,14 @@
+.project
+.classpath
+.settings/
+classes/
+target/
+build/
+log4j-applicationErrors.log
+log4j-application.log
+.idea/
+*.iml
+allure-results/
+.allure
+.gradle
+out.DS_Store
